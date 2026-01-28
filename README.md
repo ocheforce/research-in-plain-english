@@ -5,16 +5,16 @@ Alzheimer’s disease did not always look as complicated as it does today.
 For decades, the field revolved around a deceptively simple idea:  
 remove amyloid, stop the disease.
 
-The logic was clean. Amyloid plaques were visible in post-mortem brains, genetically linked to rare inherited forms of Alzheimer’s, and relatively easy to measure. They became the field’s organizing principle — shaping experiments, drug development, and clinical trials.
+The logic was clean. Amyloid plaques were visible in post-mortem brains, genetically linked to rare inherited forms of Alzheimer’s, and relatively easy to measure. They became the field’s organizing principle, shaping experiments, drug development, and clinical trials.
 
 But as trial results accumulated, something uncomfortable emerged.
 
 Patients continued to lose memory even when amyloid was reduced.  
 Cognition declined even when plaques disappeared.
 
-The disease was progressing — quietly, through routes that amyloid alone could not explain.
+The disease was progressing quietly, through routes that amyloid alone could not explain.
 
-This forced a reframing: amyloid may not be the *engine* of Alzheimer’s disease, but rather its earliest visible footprint.
+This forced a reframing: amyloid may not be the engine of Alzheimer’s disease, but rather its earliest visible footprint.
 
 ---
 
@@ -22,7 +22,7 @@ This forced a reframing: amyloid may not be the *engine* of Alzheimer’s diseas
 
 One of the most unsettling insights in Alzheimer’s research is that neurons begin to fail long before they disappear.
 
-Synapses — the microscopic junctions where neurons exchange information — degrade early. Memory loss correlates more strongly with synaptic dysfunction than with plaque burden.
+Synapses the microscopic junctions where neurons exchange information  degrade early. Memory loss correlates more strongly with synaptic dysfunction than with plaque burden.
 
 This shifts Alzheimer’s from a story of cell death to one of communication failure.
 
@@ -33,11 +33,11 @@ It slowly loses its ability to coordinate itself.
 
 ## Neuroinflammation: Protector Turned Accomplice
 
-Inflammation was once viewed as a secondary response — the brain reacting to damage already done.
+Inflammation was once viewed as a secondary response the brain reacting to damage already done.
 
 Genetic and imaging studies now complicate that view. Variants in immune-related genes increase Alzheimer’s risk. Activated microglia appear early, sometimes before extensive amyloid deposition.
 
-Inflammation may not merely respond to pathology — it may help *shape* it.
+Inflammation may not merely respond to pathology, it may help shape it.
 
 What evolved to protect neural tissue can, under chronic activation, become a driver of degeneration.
 
@@ -45,7 +45,7 @@ This reframes Alzheimer’s not just as a protein-folding problem, but as a syst
 
 ---
 
-## Why So Many Trials Failed — and Why That Matters
+## Why So Many Trials Failed and Why That Matters
 
 Most Alzheimer’s drugs did not fail because they were poorly designed.
 
@@ -69,7 +69,7 @@ The disease stretches families across years, not weeks.
 It strains healthcare systems designed for acute care, not long-term cognitive decline.
 
 Understanding Alzheimer’s, then, is not only about curing memory loss.  
-It is about learning how complex biological systems fail over time — and whether intervention is possible before collapse becomes irreversible.
+It is about learning how complex biological systems fail over time and whether intervention is possible before collapse becomes irreversible.
 
 ---
 
@@ -79,10 +79,10 @@ This folder is a thinking archive, not a summary.
 
 Each document explores one dimension of how Alzheimer’s research has evolved:
 
-- `assumptions-that-shaped-the-field.md` — the ideas that guided early research  
-- `why-amyloid-was-not-enough.md` — what amyloid explained, and what it could not  
-- `neuroinflammation-as-a-turning-point.md` — how immune biology reframed the disease  
-- `open-questions-that-still-matter.md` — unresolved questions shaping the next decade  
+- `assumptions-that-shaped-the-field.md` the ideas that guided early research  
+- `why-amyloid-was-not-enough.md` what amyloid explained, and what it could not  
+- `neuroinflammation-as-a-turning-point.md` how immune biology reframed the disease  
+- `open-questions-that-still-matter.md` unresolved questions shaping the next decade  
 
 Together, these documents trace how understanding forms, breaks, and.
 
